@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\STSNX\source\repos\Week5_4\Week5_4\Source.cpp(21,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\STSNX\source\repos\Week5_4\Week5_4\Source.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+  Week5_4.vcxproj -> C:\Users\STSNX\source\repos\Week5_4\Debug\Week5_4.exe
